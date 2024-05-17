@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=pedroossantos&theme=vue&show_icons=true&hide=stars&hide_border=true" alt="Pedro's GitHub Stats" vertical-align="middle"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroossantos&theme=vue&hide_border=true)](https://git.io/streak-stats)
 <!--
 **pedroossantos/pedroossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
